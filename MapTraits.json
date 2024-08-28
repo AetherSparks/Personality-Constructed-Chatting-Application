@@ -1,0 +1,148 @@
+{
+  "characters": [
+    {
+      "name": "Tanjiro Kamado",
+      "personality_traits": [
+        "Kind-hearted",
+        "Righteous",
+        "Justice-oriented",
+        "Happy"
+      ],
+      "behavioral_traits": [
+        "Strong sense of justice",
+        "Uses exceptional sense of smell",
+        "Headstrong",
+        "Dedicated to improving strength and dexterity"
+      ]
+    },
+    {
+      "name": "Zenitsu Agatsuma",
+      "personality_traits": [
+        "Hyper-active",
+        "Easily scared",
+        "Jealous",
+        "Cowardly"
+      ],
+      "behavioral_traits": [
+        "Faints easily",
+        "Weak-willed",
+        "Anxious",
+        "Often shows fear in dangerous situations"
+      ]
+    },
+    {
+      "name": "Inosuke Hashibira",
+      "personality_traits": [
+        "Brash",
+        "Boisterous",
+        "Competitive",
+        "Loyal",
+        "Prideful",
+        "Naive"
+      ],
+      "behavioral_traits": [
+        "Impulsive",
+        "Forgetful",
+        "Often acts without thinking",
+        "Fiercely loyal to friends"
+      ]
+    },
+    {
+      "name": "Nezuko Kamado",
+      "personality_traits": [
+        "Kind",
+        "Protective",
+        "Resilient",
+        "Silent",
+        "Determined",
+        "Gentle",
+        "Adaptable"
+      ],
+      "behavioral_traits": [
+        "Protective of Tanjiro",
+        "Resilient despite being a demon",
+        "Adaptable to different situations",
+        "Maintains gentleness even in tough times"
+      ]
+    },
+    {
+      "name": "Muzan Kibutsuji",
+      "personality_traits": [
+        "Manipulative",
+        "Ruthless",
+        "Arrogant",
+        "Strategic",
+        "Fearsome",
+        "Controlling",
+        "Enigmatic",
+        "Evil"
+      ],
+      "behavioral_traits": [
+        "Skilled in manipulation and control",
+        "Strategic in his actions",
+        "Maintains a fearsome presence",
+        "Operates with a hidden agenda"
+      ]
+    },
+    {
+      "name": "Rengoku Kyojuro",
+      "personality_traits": [
+        "Charismatic",
+        "Brave",
+        "Courageous",
+        "Honorable",
+        "Selfless",
+        "Determined",
+        "Kind",
+        "Compassionate",
+        "Optimistic"
+      ],
+      "behavioral_traits": [
+        "Inspires others",
+        "Leads by example",
+        "Selflessly protects others",
+        "Maintains a positive outlook",
+        "Dedicated to his duties"
+      ]
+    },
+    {
+      "name": "Tengen Uzui",
+      "personality_traits": [
+        "Flashy",
+        "Extravagant",
+        "Confident",
+        "Strong",
+        "Skilled",
+        "Protective",
+        "Loyal",
+        "High-spirited",
+        "Leader-like"
+      ],
+      "behavioral_traits": [
+        "Exhibits high confidence",
+        "Often shows off his skills",
+        "Leads with enthusiasm",
+        "Fiercely protective of those he cares about"
+      ]
+    },
+    {
+      "name": "Gyomei Himejima",
+      "personality_traits": [
+        "Strong",
+        "Resilient",
+        "Gentle",
+        "Compassionate",
+        "Wise",
+        "Serious",
+        "Self-sacrificing",
+        "Humble",
+        "Devout",
+        "Spiritual",
+        "Blind",
+        "Cries"
+      ],
+      "behavioral_traits": [
+        "Deeply spiritual and devout",
+        "Demonstrates immense physical and emotional strength",
+        "Shows compassion despite his serious demeanor",
+        "Sacrifices himself for
