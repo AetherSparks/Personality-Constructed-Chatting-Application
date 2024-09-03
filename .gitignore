@@ -1,5 +1,5 @@
 # Ignore virtual environment folders
-chatbvenv/
+chatbotvenv/
 
 
 # Ignore Python cache files
