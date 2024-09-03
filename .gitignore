@@ -1,0 +1,12 @@
+# Ignore virtual environment folders
+chatbvenv/
+
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore other IDE specific files
+.vscode/
+.idea/
