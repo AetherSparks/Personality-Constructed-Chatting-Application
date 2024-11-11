@@ -143,15 +143,5 @@ predicted_personality = predict_personality(test_post)
 print(predicted_personality)
 You can also modify the chatbot to include emotion recognition and emoji predictions as part of the response.
 
-Contributing
-If you want to contribute to the project, you can follow these steps:
 
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Make your changes
-Commit your changes (git commit -m "Describe your changes")
-Push to your fork (git push origin feature-branch)
-Create a pull request
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
